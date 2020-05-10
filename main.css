@@ -1,0 +1,21 @@
+body {
+  background: grey;
+}
+
+.list {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.list-item {
+  text-decoration: none;
+  background: white;
+  diplay:flex;
+  flex-warp: wrap;
+  width: 800px;
+}
+
+.list-item-image {
+  height: 100px;
+}
